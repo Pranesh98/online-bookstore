@@ -16,10 +16,10 @@ if(isset($message)){
    <div class="header-1">
       <div class="flex">
          <div class="share">
-            <a href="#" class="fab fa-facebook-f"></a>
-            <a href="#" class="fab fa-twitter"></a>
-            <a href="#" class="fab fa-instagram"></a>
-            <a href="#" class="fab fa-linkedin"></a>
+            <a target="_blank" href="https://www.facebook.com/Pranesh01" class="fab fa-facebook-f"></a>
+            <a target="_blank" href="#" class="fab fa-twitter"></a>
+            <a target="_blank" href="https://www.instagram.com/pranesh_chow/" class="fab fa-instagram"></a>
+            <a target="_blank" href="https://www.linkedin.com/in/praneshchowdhury/" class="fab fa-linkedin"></a>
          </div>
          <p> new <a href="login.php">login</a> | <a href="register.php">register</a> </p>
       </div>
@@ -27,7 +27,7 @@ if(isset($message)){
 
    <div class="header-2">
       <div class="flex">
-         <a href="home.php" class="logo">Bookly.</a>
+         <a href="home.php" class="logo">Amar Pathshala</a>
 
          <nav class="navbar">
             <a href="home.php">home</a>
