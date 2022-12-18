@@ -46,8 +46,8 @@ if(!isset($user_id)){
 
       <div class="content">
          <h3>why choose us?</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet voluptatibus aut hic molestias, reiciendis natus fuga, cumque excepturi veniam ratione iure. Excepturi fugiat placeat iusto facere id officia assumenda temporibus?</p>
-         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit quos enim minima ipsa dicta officia corporis ratione saepe sed adipisci?</p>
+         <p>Choosing The Amar Pathshala can allow you to purchase the best selling books which are being written by some of the most popular authors. Apart from the numerous advantages of choosing us, some of the most important ones are being mentioned below:-</p>
+         <p>Facility to choose from a wide range of books on different subjects. Facility to choose from books written by both; novice as well as established authors 100% original books. Books available at affordable prices. Attractive discounts on different books.Facility of comparing the book price with the market value</p>
          <a href="contact.php" class="btn">contact us</a>
       </div>
 
