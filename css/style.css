@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600&display=swap');
 
+/* Color Assign */
 :root{
    --purple:#8e44ad;
    --red:#c0392b;
@@ -45,6 +46,7 @@ html{
    overflow-x: hidden;
 }
 
+/* Product Section  */
 section{
    padding:3rem 2rem;
 }
@@ -480,6 +482,7 @@ section{
 
 .reviews{
    background-color: var(--light-bg);
+
 }
 
 .reviews .box-container{
