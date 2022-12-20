@@ -118,8 +118,8 @@ if(isset($_POST['order_btn'])){
             <select name="method">
                <option value="cash on delivery">cash on delivery</option>
                <option value="credit card">credit card</option>
-               <option value="paypal">paypal</option>
-               <option value="paytm">paytm</option>
+               <option value="paypal">Bikash</option>
+               <option value="paytm">Nagad</option>
             </select>
          </div>
          <div class="inputBox">
@@ -132,15 +132,15 @@ if(isset($_POST['order_btn'])){
          </div>
          <div class="inputBox">
             <span>city :</span>
-            <input type="text" name="city" required placeholder="e.g. mumbai">
+            <input type="text" name="city" required placeholder="e.g. Chattogram">
          </div>
          <div class="inputBox">
             <span>state :</span>
-            <input type="text" name="state" required placeholder="e.g. maharashtra">
+            <input type="text" name="state" required placeholder="e.g. Chattogram">
          </div>
          <div class="inputBox">
             <span>country :</span>
-            <input type="text" name="country" required placeholder="e.g. india">
+            <input type="text" name="country" required placeholder="e.g. Bangladesh">
          </div>
          <div class="inputBox">
             <span>pin code :</span>
